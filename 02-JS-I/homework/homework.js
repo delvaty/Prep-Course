@@ -207,12 +207,12 @@ function agregarSimboloExclamacion(str) {
 agregarSimboloExclamacion("Hello world!");
 
 function combinarNombres(nombre, apellido) {
-   var apellido= "delvaty";// Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
-   return apellido;// Ejemplo: "Soy", "Henry" -> "Soy Henry"
+   var nombre= "Robert";// Devuelve "nombre" y "apellido" combinados en una string y separados por un espacio.
+   return nombre;// Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
   
 }
-combinarNombres("Robert", +apellido);
+combinarNombres(nombre, "Delvaty");
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
