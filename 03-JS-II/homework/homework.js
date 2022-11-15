@@ -249,6 +249,7 @@ function doWhile(numero) {
   //Retornar el valor final.
   //Usar el bucle do ... while.
 }
+doWhile(10);
 
 
 // No modificar nada debajo de esta línea
